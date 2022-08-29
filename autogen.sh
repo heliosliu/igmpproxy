@@ -3,4 +3,7 @@ set -e
 aclocal
 autoconf
 autoheader
-automake --add-missing
+automake --add-missing 
+
+
+
